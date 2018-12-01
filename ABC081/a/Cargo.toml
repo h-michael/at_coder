@@ -1,0 +1,6 @@
+[package]
+name = "a"
+version = "0.1.0"
+authors = ["Hirokazu Hata <h.hata.ai.t@gmail.com>"]
+
+[dependencies]
